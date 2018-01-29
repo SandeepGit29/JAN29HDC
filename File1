@@ -1,0 +1,7 @@
+#This progrem is for test purpose
+a=10
+b=20
+echo "The sum of a and b is :"
+c='expr $a + $b'
+echo "The sum is $c"
+echo "End of program"
